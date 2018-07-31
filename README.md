@@ -1,0 +1,2 @@
+# IDM250v.2
+This is a personal project that in the future I hope will spark new clients to come into my spectrum. My goal is to have a fully functional and responsive portfolio website by the end of the term. Within the website will outline my skills, give some brief portfolio examples, have an interactive blog, and of course it will have a contact page. Users will be able to search through my portfolio pieces as well as the blogs that I will be uploading. 
